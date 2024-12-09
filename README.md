@@ -1,11 +1,12 @@
 # Hi there, I'm Vipin T V 👋
 
 Welcome to my GitHub profile! 
-MCA Graduate
-I'm a passionate **Full Stack Developer** with a focus on the **MEAN/MERN stack** and a love for building scalable, user-friendly applications. I'm always exploring new technologies and tools to improve my skills and build innovative projects.
+I'm an **MCA Graduate** and a passionate **Full Stack Developer** with a focus on the **MEAN/MERN stack**. I have a deep love for building scalable, user-friendly applications and enjoy exploring new technologies and tools to continuously improve my skills and stay up-to-date with industry trends. 
+With a solid foundation in both frontend and backend development, I strive to create solutions that are efficient, maintainable, and user-centric. I am always eager to collaborate on innovative projects and contribute to open-source communities.
 
 ## 🧑‍💻 About Me
 
+- 🎓 **MCA Graduate** – My educational background has provided me with a strong understanding of computer science and software engineering principles.
 - 💼 Currently working as a **Full Stack Developer**
 - 🌱 I’m learning ME(A)RN Stack Development
 - 💬 Ask me about **JavaScript**, **Node.js**, **React**, **MongoDB**, **Express**, or anything tech-related
