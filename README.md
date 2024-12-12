@@ -1,5 +1,7 @@
 # Hi there, I'm Vipin T V 👋
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vipintv2001.vipintv2001)
+
 Welcome to my GitHub profile!  |   
 I'm an **Full Stack Developer** with a focus on the **MEAN/MERN stack**. I have a deep love for building scalable, user-friendly applications and enjoy exploring new technologies and tools to continuously improve my skills and stay up-to-date with industry trends. 
 With a solid foundation in both frontend and backend development, I strive to create solutions that are efficient, maintainable, and user-centric. I am always eager to collaborate on innovative projects and contribute to open-source communities.
